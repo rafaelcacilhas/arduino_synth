@@ -4,8 +4,9 @@ An arduino software mapping a joystick shield for arduino to musical notes and c
 The idea is to map the analog stick 8 directions to the seven notes of a scale (plus the octave) and the four buttons to chord qualities: major, minor, augmented and diminished.
 
 TODO:
-  -  Map analog stick directions to 8 square waves tones
-  -  Use a DAC to create different wave forms (sine, square, triangle, sawtooth)
+  ~~  Map analog stick directions to 8 square waves tones ~~ DONE
+  ~~  Use a DAC to create different wave forms (sine, square, triangle, sawtooth) ~~ DONE
+  -  Amplify signal to line level 
   -  Combine three or four waves to form a chord
   -  Implement different chord qualities
 
